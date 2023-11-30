@@ -15,7 +15,7 @@ namespace WindowsFormsApp2
         public Form1()
         {
             InitializeComponent();
-            button4.Enabled = false;
+            button4.Enabled = true;
         }
 
         private void button1_Click(object sender, EventArgs e)
